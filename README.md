@@ -1,6 +1,6 @@
 # This is my solution to the Backend challenge by Enye
 
-# 🌐 Live @ https://enya-frontend-challenge.vercel.app/
+# 🌐 Live @ https://okereke-backend-challenge.herokuapp.com/api/rates
 
 # Currency Rates API
 You have been tasked with creating a service integration to a public API and exposing a RESTful endpoint. The endpoint will accept requests and returns a modified response schema from the integrated API.
