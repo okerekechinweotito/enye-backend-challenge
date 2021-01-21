@@ -4,7 +4,6 @@
 
 ## base = base currency
 
-## Auto set to convert to EUR, GBP, USD
 
 # Currency Rates API
 
