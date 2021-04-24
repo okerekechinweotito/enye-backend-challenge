@@ -1,7 +1,5 @@
 # This is my solution to the Backend challenge by Enye
 
-# 🌐 Make an API Request with - fetch('https://okereke-backend-challenge.herokuapp.com/api/rates?base=CZK&currency=EUR,GBP,USD');
-
 ## base = base currency
 
 
